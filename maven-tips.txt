@@ -1,0 +1,4 @@
+mvn compile : generate class files
+    package : generate class files as well as jar 
+    clean   : clean the target 
+    install : install the project to .m2 
